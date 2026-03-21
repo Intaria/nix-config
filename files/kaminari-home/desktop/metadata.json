@@ -1,0 +1,10 @@
+{
+    "KPlugin": {
+        "Category": "",
+        "EnabledByDefault": true,
+        "Id": "Custom",
+        "Name": "Custom",
+        "Version": "1.0"
+    },
+    "X-Plasma-API": "5.0"
+}

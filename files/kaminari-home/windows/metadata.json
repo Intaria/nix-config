@@ -1,0 +1,16 @@
+{
+    "KPackageStructure": "aurorae",
+    "KPlugin": {
+        "Category": "Plasma 6 Window Decorations",
+        "ServiceTypes": [
+            "aurorae"
+        ],
+        "EnabledByDefault": true,
+        "Name": "Custom",
+        "Id": "Custom",
+        "Version": "1.0",
+        "X-KDE-PluginInfo-blur": true,
+        "X-KPackage-Dependencies": [
+        ]
+    }
+}

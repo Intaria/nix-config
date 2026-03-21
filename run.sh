@@ -45,3 +45,10 @@ select ITEM in "${PRESETS[@]}"; do
 done
 
 # Устанавливаем программы
+
+
+
+
+# Обновляем систему
+
+sudo pacman -Syu

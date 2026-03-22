@@ -6,7 +6,7 @@
    version="1.1"
    style="enable-background:new"
    sodipodi:docname="maximize.svg"
-   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   inkscape:version="1.4.3 (0d15f75042, 2025-12-25)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -208,12 +208,12 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1014"
+     inkscape:window-height="1011"
      id="namedview27"
      showgrid="true"
-     inkscape:zoom="4"
-     inkscape:cx="110.5"
-     inkscape:cy="4.875"
+     inkscape:zoom="5.6568542"
+     inkscape:cx="111.81126"
+     inkscape:cy="5.3916892"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -259,16 +259,7 @@
        transform="translate(74,42)" />
     <g
        id="g3"
-       transform="matrix(1.5002145,0,0,1.5484113,-45.721996,-29.162416)">
-      <rect
-         style="enable-background:new;fill:#d5d5d5;stroke-width:0.410206;stroke-linecap:square;stroke-linejoin:round"
-         id="rect1"
-         width="7.0056705"
-         height="5"
-         x="73"
-         y="4"
-         transform="matrix(0.66657135,0,0,0.64582324,45.141542,45.958342)" />
-    </g>
+       transform="matrix(1.5002145,0,0,1.5484113,-45.721996,-29.162416)" />
   </g>
   <g
      id="pressed-center"
@@ -287,15 +278,7 @@
     <g
        id="g3-2"
        transform="matrix(1.5002145,0,0,1.5484113,6.8892148,-29.162362)"
-       style="enable-background:new">
-      <rect
-         style="fill:#d5d5d5;stroke-width:0.269142;stroke-linecap:square;stroke-linejoin:round;enable-background:new"
-         id="rect1-6"
-         width="4.6697793"
-         height="3.2291162"
-         x="93.725235"
-         y="48.541603" />
-    </g>
+       style="enable-background:new" />
   </g>
   <g
      id="inactive-center"

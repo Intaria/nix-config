@@ -1,5 +1,6 @@
 #!/bin/bash
 
+echo "- Обновляем обои"
 #TODO: get data about user from extermal 
 
 #TODO: make dynamic path

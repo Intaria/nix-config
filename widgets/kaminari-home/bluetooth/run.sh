@@ -1,5 +1,5 @@
 #!/bin/bash
 
-echo "- Отключаем Bluetooth"
+echo "- Настраиваем виджет Bluetooth"
 
 sudo systemctl disable --now bluetooth

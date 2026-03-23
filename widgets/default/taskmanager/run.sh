@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo "- Настраиваем Taskmanager"
+echo "- Настраиваем виджет Taskmanager"
 
 # Обновляем позицию
 dbus-send --session --dest=org.kde.plasmashell --type=method_call /PlasmaShell org.kde.PlasmaShell.evaluateScript "string:

@@ -13,3 +13,14 @@ echo "- Обновляем параметры системы"
 # change power settings (config)
 # change sleep background (time to slep)
 # remove blocked screen
+
+# Ставим уведомления в правый нижний угол 
+
+
+
+# org.freedesktop.impl.portal.desktop.kde
+# Параметры всплывающих системных окон
+# - параметры окон: виртуальные рабочие столы (принудительно) - все рабочие столы
+# - все виды окон
+# - удерживать ниже других окон (принудительно) - да
+# в krohnkite - добавляем класс org.freedesktop.impl.portal.desktop.kde и для летающего окна, и для игнорируемого

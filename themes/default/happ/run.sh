@@ -3,15 +3,15 @@
 echo "- Обновляем Happ"
 
 
-#TODO
-#TOOO меняем system на gvisor
-#TODO auto-start в свернутом режиме
-#TODO: добавить программы напрямую
-# Посмотреть, как будет работать с включателем TUN (по идее, нам достаточно PROXY)
+#меняем system на gvisor
+#auto-start в свернутом режиме
 
 # отключаем ру-сайты от vpn:
 # - для телефонов: открываем routing.help с включеным vpn или копируем эту ссылку: https://github.com/hydraponique/roscomvpn-routing/blob/main/HAPP/DEFAULT.DEEPLINK
-# - для компьютера: TODO !!! 
+# - для компьютера: 
+# - 1. выставляем в firefox: about:config -> network.protocol-handler.expose.happ -> false
+# - 2. копируем содержимое ссылки https://raw.githubusercontent.com/hydraponique/roscomvpn-routing/main/HAPP/DEFAULT.DEEPLINK и инспектором вставляем где-нибудь в html внутри <a>
+# - 3. во всплывающем окне выбираем /usr/bin/ -> Happ и открываем им 
 
 # для запуска приложений под vpn 
 # - запускаем их в виде `{app_name} --proxy-server="socks5://127.0.0.1:10808"``

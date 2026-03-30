@@ -15,3 +15,6 @@ echo "- Обновляем Firefox"
 
 # домашняя страница и новые окна: https://www.google.com/
 # новые вкладки: пустая страница
+
+# выставляем темную тему (темы)
+# устанавливаем цветовую схему: https://addons.mozilla.org/en-US/firefox/addon/telegram-dark/

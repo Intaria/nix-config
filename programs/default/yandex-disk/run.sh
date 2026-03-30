@@ -2,4 +2,5 @@
 
 echo "- Устанавливаем Yandex.Disk"
 
-#TODO
+paru -S --needed yandex-disk
+paru -S --needed yandex-disk-indicator

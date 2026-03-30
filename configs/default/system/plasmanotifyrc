@@ -1,0 +1,13 @@
+[Applications][firefox]
+Seen=true
+
+[Applications][org.qbittorrent.qBittorrent]
+Seen=true
+
+[Applications][org.telegram.desktop]
+Seen=true
+ShowBadges=false
+
+[Notifications]
+PopupPosition=BottomRight
+PopupTimeout=20000

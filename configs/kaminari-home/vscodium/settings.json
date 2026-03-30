@@ -1,0 +1,49 @@
+{
+    "explorer.confirmDelete": false,
+    "explorer.confirmDragAndDrop": false,
+    "files.autoSave": "afterDelay",
+    "git.confirmSync": false,
+    "git.autofetch": true,
+    "workbench.colorCustomizations": {
+        // Основной фон (как в чатах)
+        "editor.background": "#0e1621", 
+        "sideBar.background": "#17212b",
+        
+        // Заголовки и вкладки
+        "titleBar.activeBackground": "#17212b",
+        "tab.activeBackground": "#17212b",
+        "tab.inactiveBackground": "#0e1621",
+        "tab.hoverBackground": "#17212b",
+        
+        // Акценты (фирменный синий Telegram)
+        "activityBar.background": "#0e1621",
+        "activityBar.foreground": "#5288c1",
+        "statusBar.background": "#17212b",
+        "statusBar.foreground": "#5288c1",
+        
+        // Выделение и границы
+        "editor.selectionBackground": "#2b5278",
+        "list.activeSelectionBackground": "#2b5278",
+        "focusBorder": "#5288c1",
+
+        // Фон и границы нижней панели (где консоль)
+        "panel.background": "#0e1621",
+        "panel.border": "#17212b",
+        "panelTitle.activeForeground": "#5288c1",
+        "panelTitle.inactiveForeground": "#708499",
+        "panelTitle.activeBorder": "#5288c1",
+
+        // Фон и заголовок боковой панели (Explorer)
+        "sideBarSectionHeader.background": "#17212b",
+        "sideBar.border": "#0e1621",
+
+        // Цвета элементов в списках (слева)
+        "list.hoverBackground": "#1e2c3a", 
+        "list.inactiveSelectionBackground": "#0e1621",
+        "list.focusBackground": "#2b5278",
+        "list.highlightForeground": "#5288c1",
+        
+        // Цвет текста в Outline и Timeline
+        "sideBar.foreground": "#d4d4d4"
+    }
+}

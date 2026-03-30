@@ -1,0 +1,71 @@
+{
+    "Name": "Custom",
+    "Version": 1,
+    "Widgets": [
+        {
+            "SplitterVertical": {
+                "State": "AAAA/wAAAAEAAAAEAAAAHAAAAB4AAAJ9AAAAFwD/////AQAAAAIA",
+                "Widgets": [
+                    {
+                        "SplitterHorizontal": {
+                            "State": "AAAA/wAAAAEAAAAEAAAAggAABqEAAAA+AAAAZwD/////AQAAAAEA",
+                            "Widgets": [
+                                {
+                                    "PlayerControls": {
+                                    }
+                                },
+                                {
+                                    "SeekBar": {
+                                        "ElapsedTotal": false,
+                                        "ShowLabels": false
+                                    }
+                                },
+                                {
+                                    "PlaylistControls": {
+                                    }
+                                },
+                                {
+                                    "VolumeControls": {
+                                        "Mode": 3
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "SearchBar": {
+                            "AutoSearch": true,
+                            "SearchMode": 0
+                        }
+                    },
+                    {
+                        "SplitterHorizontal": {
+                            "State": "AAAA/wAAAAEAAAABAAAECgD/////AQAAAAEA",
+                            "Widgets": [
+                                {
+                                    "PlaylistTabs": {
+                                        "Widgets": [
+                                            {
+                                                "Playlist": {
+                                                    "Columns": "3|7:2|1",
+                                                    "HeaderState": "AAAARXjaY2BgYGZgYFgJxFMYGJgiGSB8JgYIYATx7Y8vVo75vEbd/sgmLa/15Vb2T16tmSZurgmSZPj///9/AGEvEN8=",
+                                                    "ID": "452db69ff8f54267b22d5cbe7b27f944",
+                                                    "Preset": 0,
+                                                    "SingleMode": false
+                                                }
+                                            }
+                                        ]
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "StatusBar": {
+                        }
+                    }
+                ]
+            }
+        }
+    ]
+}

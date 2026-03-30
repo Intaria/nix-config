@@ -2,4 +2,4 @@
 
 echo "- Устанавливаем Kvantum"
 
-sudo pacman -S kvantum
+sudo pacman -S --needed kvantum
